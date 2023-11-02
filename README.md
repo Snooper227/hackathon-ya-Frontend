@@ -10,13 +10,13 @@
 
 <h3 align="center">Используемый стек</h3>
 
-<p><img src="./src/assets/images/icons/typescript.svg" alt="TypeScript" height="32px" width="32px" style="margin-right: 15px, background: #fff">TypeScript</p>
-<p><img src="./src/assets/images/icons/react.svg" alt="React" height="32px" width="32px" tyle="margin-right: 15px, background: #fff">React</p>
-<p><img src="./src/assets/images/icons/redux.svg" alt="Redux ToolKit" height="32px" width="32px" tyle="margin-right: 15px, background: #fff">Redux ToolKit</p>
-<p><img src="./src/assets/images/icons/mui.svg" alt="MUI UI" height="32px" width="32px" tyle="margin-right: 15px, background: #fff">MUI UI</p>
-<p><img src="./src/assets/images/icons/sass.svg" alt="SCSS modules" height="32px" width="32px" tyle="margin-right: 15px, background: #fff">SCSS modules</p>
-<p><img src="./src/assets/images/icons/reacthookform.svg" alt="React hook form" height="32px" width="32px" tyle="margin-right: 15px, background: #fff">React hook form</p>
-<p><img src="./src/assets/images/icons/reactrouter.svg" alt="React router dom" height="32px" width="32px" tyle="margin-right: 15px, background: #fff">React router dom</p>
+<p><img src="./src/assets/images/icons/typescript.svg" alt="TypeScript" height="32px" width="32px" style="margin-right: 15px; background: #fff">TypeScript</p>
+<p><img src="./src/assets/images/icons/react.svg" alt="React" height="32px" width="32px" tyle="margin-right: 15px; background: #fff">React</p>
+<p><img src="./src/assets/images/icons/redux.svg" alt="Redux ToolKit" height="32px" width="32px" tyle="margin-right: 15px; background: #fff">Redux ToolKit</p>
+<p><img src="./src/assets/images/icons/mui.svg" alt="MUI UI" height="32px" width="32px" tyle="margin-right: 15px; background: #fff">MUI UI</p>
+<p><img src="./src/assets/images/icons/sass.svg" alt="SCSS modules" height="32px" width="32px" tyle="margin-right: 15px; background: #fff">SCSS modules</p>
+<p><img src="./src/assets/images/icons/reacthookform.svg" alt="React hook form" height="32px" width="32px" tyle="margin-right: 15px; background: #fff">React hook form</p>
+<p><img src="./src/assets/images/icons/reactrouter.svg" alt="React router dom" height="32px" width="32px" tyle="margin-right: 15px; background: #fff">React router dom</p>
 
 <h3 align="center">Установка</h3> 
 <p align="center">убедитесь что находитесь в папке frontend  
